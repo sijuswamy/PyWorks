@@ -1,8 +1,11 @@
 # PyWorks-1.0
 Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Technology
 >**Name of the Course:** PyWorks 1.0
+
 >**Training mode:** Hands-on (offline)
+
 >**Course duration:** 3 days (18 hours)
+
 >**Course Objectives**
 
 Upon successful completion of this course the participant will be able to:
@@ -12,12 +15,13 @@ Upon successful completion of this course the participant will be able to:
 
 ### Course Content
 
-**Module-1** \\
-Introduction to Python programming- - tokens, data types, conditionals, iterations, functions etc.,\\
+**Module-1** 
+
+Introduction to `Python` programming- - tokens, data types, conditionals, iterations, functions etc.,
 
 **Module-2**
 
-Python for Mathematical and Descriptive Statistical Analysis- Concept of libraries, Popular python libraries-NumPy, Pandas.\\
+`Python` for Mathematical and Descriptive Statistical Analysis- Concept of libraries, Popular `Python` libraries-`NumPy`, `Pandas`.
 
 **Module-3**
 
