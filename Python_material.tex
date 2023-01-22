@@ -1,0 +1,61 @@
+\documentclass[11pt,a4paper]{report}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,float}
+\usepackage[margin=2cm]{geometry}
+\author{Department of Artificial Intelligence \& Data Science}
+\newtheorem{dfn}{Definition:}
+\title{Python and Statistical Modelling\\ Course Material}
+\input{pythonformat.tex}
+\begin{document}
+\maketitle
+\chapter{Python as a Flexible Language}
+\section{Introduction}
+Python is a high-level programming language. So it is different from other popular programming language. Unlike other programming languages, Python enables programmers to focus on the tasks to be completed or action to be performed without worrying about how to accomplish the specific objective.
+
+As noted earlier, Python is an interpreted programming language. So the source code written in Python can run on directly on the computer without any compilation. The feature makes it easier for Python developers to make changes to the code, and check the impact of these changes immediately. The absence of code compilation further reduced the overall coding time significantly.
+
+The syntax rules of Python are influenced by a number of programming languages including C, C++ and Java. However, syntax rule of Python is completely different from these programming languages. For instance, Python delimits the code using white space. So the programmers are not required to use a ; or \verb {} to organize the code. The simple and easy-to-read syntax of the Python further helps developers to express concept with less and readable code. Also, Python is hugely popular among beginners as an easy to read and learn programming language.
+
+Each programmer has option to choose from two stable versions of programming language- Python 2.x and Python 3.x. Also, he can combine Python with other programming languages and technologies through the specific implementation of Python. For instance, they can use Jython to import and use Java classes in Python code. Likewise, they can use `CyPy` which is an interpreter written completely in Python instead of C. They can even use IronPython and Boo to use Python and .NET technologies together.
+
+Like other modern programming languages, Python also supports a number of commonly used programming paradigms. It supports object-oriented, functional, imperative, and procedural programming styles. At the same time, the programming language also supports dynamic type system, while featuring automatic memory management. The programmer can take advantage of these programming paradigms to build applications in a more organized way.
+\subsection{Why `python` is a right choice for Computational Statistics ?}
+
+Python is a popular programming language in scientific computing, because it has many data-oriented feature packages that can speed up and simplify data processing, thus saving time.
+
+We will be using `Python` a fair amount in this class. `Python` is a high-level scripting language that offers an interactive programming environment. We assume programming experience, so this workshop will focus on the unique properties of `Python`.
+
+Programming languages generally have the following common ingredients: 
+
+{\bf variables, operators, iterators, conditional statements, functions (built-in and user defined) and higher-order data structures}
+
+We will look at these in Python and highlight qualities unique to this language.
+
+\subsection*{Variables}
+Variables in `Python` are defined and assigned for you when you set a value to them.
+A simple example of variable assignment is shown below
+\begin{codeInput}{python}{Assign a variable}{code01}{1}
+# assign 2 to the variable 'py_variable'
+py_variable= 2 
+print("Value stored is",py_variable) # displays the value stored in 'py_variable'
+print("Type of the variable is :",py_variable)  # return the data type of 'py_variable'
+\end{codeInput}
+
+Output of this code is shown in following window
+\begin{result}
+Value stored is 2
+Type of the variable is : 2
+\end{result}
+This makes variable definition easy for the programmer. As usual, though, great power comes with great responsibility. For example:
+\begin{codeInput}{python}{ Incriminating a variable}{code2}{5}
+py_varible = py_variable+100
+print("Value is :",py_variable)
+\end{codeInput}
+\begin{result}
+Value is : 2
+\end{result}
+\begin{note}
+Here note the difference in the variable name!
+\end{note}
+
+\end{document}

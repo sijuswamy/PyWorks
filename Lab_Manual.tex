@@ -1,0 +1,97 @@
+\documentclass[a4paper]{article}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb,float}
+\usepackage[margin=2cm]{geometry}
+\input{pythonformat.tex}
+\title{Python and Statistical Modelling\\ Lab manual}\author{AIDS, ICET}
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+\section{Experiment 1: Sum of two numbers}
+\experiment 
+
+Program to find average of two numbers
+
+\dat
+
+\aim
+
+To find average of two numbers already stored.
+
+\algorithm
+
+\begin{description}
+\item[Step 1:] Start
+\item[Step 2:] Assign values to $a$ and $b$.
+\item[Step 3:] Assign sum to anew variable $s$
+\item[Step 4:] Print the sum
+\item[Step 5:] Stop
+\end{description}
+
+\code 
+
+\begin{codeInput}{python}{Python code to find sum}{code01}{1}
+"""
+programe to find sum of two numbers
+"""
+a=5; b=9
+s=a+b
+print("sum is:",s)
+\end{codeInput}
+
+\results
+
+\begin{result}
+sum is: 14
+\end{result}
+
+\section{Experiment 2: Find the largest of three numbers}
+\experiment 
+
+Program to find largest of three given numbers
+
+\dat
+
+\aim
+
+To find largest among the the three given number
+
+\algorithm
+
+\begin{description}
+\item[Step 1:] Start
+\item[Step 2:] Assign values to $num1$, $num2$ and $num3$.
+\item[Step 3:] Find the largest using the python conditional {\ttfamily if .. elif.. else}
+\item[Step 4:] Print the largets
+\item[Step 5:] Stop
+\end{description}
+
+\code 
+
+\begin{codeInput}{python}{Python code to find largest among three}{code02}{1}
+"""
+# Python program to find the largest number among the three input numbers
+"""
+num1 = 40
+num2 = 24
+num3 = 32
+#uncomment following lines to take three numbers from user
+#num1 = float(input("Enter first number: "))
+#num2 = float(input("Enter second number: "))
+#num3 = float(input("Enter third number: "))
+if (num1 >= num2) and (num1 >= num3):
+   largest = num1
+elif (num2 >= num1) and (num2 >= num3):
+   largest = num2
+else:
+   largest = num3
+print("The largest number is", largest)
+\end{codeInput}
+
+\results
+
+\begin{result}
+The largest number is 40
+\end{result}
+\end{document}
