@@ -31,6 +31,6 @@ Introduction to `Python` programming- - tokens, data types, conditionals, iterat
 
 Distributions and Inferential Statistical Analysis- Concept of random variables, probability distributions, important theoretical distributions, testing of hypothesis, statistical test- $\chi^2$ test, $F$- test, `ANOVA`, survey data analysis using `statmodels`.
 
-## DAy-1 Session link
+# Day-1 Session link
 
 <https://colab.research.google.com/drive/1Oo0IQ_RCu5rtQj0wQNDQT-XMiS4c1nvI?usp=sharing>
