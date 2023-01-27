@@ -26,3 +26,5 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 ### Lesson 2- Working with `pandas`
 
 <https://colab.research.google.com/drive/1ReM3W40bV7ANblPgwkQ57sPVcyOfi7Lx?usp=sharing>
+
+### Lesson 3- Working with `Mat
