@@ -5,7 +5,7 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 
 <https://colab.research.google.com/drive/1Oo0IQ_RCu5rtQj0wQNDQT-XMiS4c1nvI?usp=sharing>
 
-# Programs listed in the Lab Manual of the proposed KTU Syllabus of `Python for Statistical Modelling` is availabe in the following notebook:
+# Programs listed in the Lab Manual of the proposed KTU Syllabus of `Python for Statistical Modelling` is available in the following notebook:
 
 <https://colab.research.google.com/drive/1skDxawCA6VrAow041NCecPayN4WgqJPv?usp=sharing>
 
@@ -17,12 +17,6 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 # Day-2 Session link
 
 ## Theme- Scalability of `Python`
-
-### Feeling signals with `Python`
-
->**A fun file to experience `Pythonic` way of signal processing**
-
-<https://colab.research.google.com/drive/1iL4Yzyz022pUGaiGlsHkCZzKO94JPKdd?usp=sharing>
 
 ### Lesson 1: Working with `NumPy` for scientific computing
 
@@ -55,5 +49,12 @@ Link to the colab notebook:
 
 Link to colab notebook
 <https://colab.research.google.com/drive/1VC8SebResgUoc8oMk7_4FC8trCI35XhR?usp=sharing>
-
 ---
+
+## Additional Resources:
+
+### Feeling signals with `Python`
+
+>**A fun file to experience `Pythonic` way of signal processing**
+
+<https://colab.research.google.com/drive/1iL4Yzyz022pUGaiGlsHkCZzKO94JPKdd?usp=sharing>
