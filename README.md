@@ -3,7 +3,7 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 
 # Day-1 Session link
 
-<https://colab.research.google.com/drive/1Oo0IQ_RCu5rtQj0wQNDQT-XMiS4c1nvI?usp=sharing>
+https://colab.research.google.com/drive/1Oo0IQ_RCu5rtQj0wQNDQT-XMiS4c1nvI?usp=sharing
 
 # Programs listed in the Lab Manual of the proposed KTU Syllabus of `Python for Statistical Modelling` is available in the following notebook:
 
@@ -20,18 +20,18 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 
 ### Lesson 1: Working with `NumPy` for scientific computing
 
-<https://colab.research.google.com/drive/1A-fXkY_gXwF-O9TVJmS0RrZgGekbLFXH?usp=sharing>
+https://colab.research.google.com/drive/1A-fXkY_gXwF-O9TVJmS0RrZgGekbLFXH?usp=sharing
 
 ### Lesson 2- Working with `pandas`
 
-<https://colab.research.google.com/drive/1siEnygm_xlLRGooQyqzMaTDRzgQ5Vu9x?usp=sharing>
+https://colab.research.google.com/drive/1siEnygm_xlLRGooQyqzMaTDRzgQ5Vu9x?usp=sharing
 
 link to data:
 
 https://raw.githubusercontent.com/sijuswamy/PyWorks/main/telecom_churn.csv
 
 ### Lesson 3- Working with `Matplotlib`
-<https://colab.research.google.com/drive/172tdxPseKU-mI4leA5YFbxKmOHo5e3sr?usp=sharing>
+https://colab.research.google.com/drive/172tdxPseKU-mI4leA5YFbxKmOHo5e3sr?usp=sharing
 
 ---
 # Day-3 -Applications of `Python` in Data Analytics 
