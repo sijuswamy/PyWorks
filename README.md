@@ -31,4 +31,5 @@ link to data:
 
 https://raw.githubusercontent.com/sijuswamy/PyWorks/main/telecom_churn.csv
 
-### Lesson 3- Working with `Mat
+### Lesson 3- Working with `Matplotlib`
+<https://colab.research.google.com/drive/172tdxPseKU-mI4leA5YFbxKmOHo5e3sr?usp=sharing>
