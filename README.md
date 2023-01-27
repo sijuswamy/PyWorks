@@ -10,7 +10,7 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 <https://colab.research.google.com/drive/1skDxawCA6VrAow041NCecPayN4WgqJPv?usp=sharing>
 
 >**Task-2**
-1. Copy the row content of the <> file and create a new `Lab_manual.tex` file in the `overleaf` project created on first day. Update the `\input{pythonformat.tex}` in the preample with `\input{python_format.tex}` and recompile the `Lab_manual.tex` file.
+1. Copy the row content of the <https://github.com/sijuswamy/PyWorks/blob/main/Lab_Manual.tex> file and create a new `Lab_manual.tex` file in the `overleaf` project created on first day. Update the `\input{pythonformat.tex}` in the preample with `\input{python_format.tex}` and recompile the `Lab_manual.tex` file.
 
 2. Create new experiments in the Lab maual format and complete the lab manual for the course.
 ---
