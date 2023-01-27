@@ -47,8 +47,9 @@ Link to the colab notebook:
 
 ### Lesson 3- Case Study- Fruit preference Prescriptive Analysis based on sample survey data.
 
-Link to colab notebook
+Link to colab notebook:
 <https://colab.research.google.com/drive/1VC8SebResgUoc8oMk7_4FC8trCI35XhR?usp=sharing>
+
 ---
 
 ## Additional Resources:
