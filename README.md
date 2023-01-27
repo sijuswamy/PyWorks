@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/sijuswamy/PyWorks/main/telecom_churn.csv
 Link to the colab notebook
 <https://colab.research.google.com/drive/1b-GaNrwo-KyRRFpnFvi-bGYX-E9mYqBV?usp=sharing>
 
-### Lesson 2- Inferential Analyis with `Python`
+### Lesson 2- Inferential Analysis with `Python`
 
 Link to the colab notebook:
 <https://colab.research.google.com/drive/1DDv9105HdNrkIgcnZX9CPL6_UcJl-tp_?usp=sharing>
