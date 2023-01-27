@@ -27,4 +27,8 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 
 <https://colab.research.google.com/drive/1siEnygm_xlLRGooQyqzMaTDRzgQ5Vu9x?usp=sharing>
 
+link to data:
+
+https://raw.githubusercontent.com/sijuswamy/PyWorks/main/telecom_churn.csv
+
 ### Lesson 3- Working with `Mat
