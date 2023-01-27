@@ -13,6 +13,12 @@ Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Techno
 
 ## Theme- Scalability of `Python`
 
+### Feeling signals with `Python`
+
+>**A fun file to experience `Pythonic` way of signal processing**
+
+<https://colab.research.google.com/drive/1iL4Yzyz022pUGaiGlsHkCZzKO94JPKdd?usp=sharing>
+
 ### Lesson 1: Working with `NumPy` for scientific computing
 
 <https://colab.research.google.com/drive/1A-fXkY_gXwF-O9TVJmS0RrZgGekbLFXH?usp=sharing>
