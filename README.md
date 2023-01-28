@@ -50,6 +50,9 @@ Link to the colab notebook:
 Link to colab notebook:
 <https://colab.research.google.com/drive/1VC8SebResgUoc8oMk7_4FC8trCI35XhR?usp=sharing>
 
+### Survey link
+
+<https://forms.gle/6bhGMTBKaahfEWYE9>
 ---
 
 ## Additional Resources:
