@@ -55,6 +55,12 @@ Link to colab notebook:
 <https://forms.gle/6bhGMTBKaahfEWYE9>
 ---
 
+### Feedback link
+
+<https://www.menti.com/alofa611gp5n>
+
+---
+
 ## Additional Resources:
 
 ### Feeling signals with `Python`
