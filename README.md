@@ -1,6 +1,5 @@
 # PyWorks-1.0
-Repository for the PyWorks workshop - Ilahia College of Engineering &amp; Technology
-
+Repository for the PyWorks workshop - Intel-Unnati Industrial Training
 # Day-1 Session link
 
 https://colab.research.google.com/drive/1Oo0IQ_RCu5rtQj0wQNDQT-XMiS4c1nvI?usp=sharing
