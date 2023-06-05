@@ -1,0 +1,612 @@
+Gender,Age_group,Marital_Status,Caste,Educational_Qualifications,District,Locality_Type,Income_category,Family_Type,Category,Reliability,Tangibilty,Responsiveness
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,34,67,19
+Female,26-40 years,Married,Christian,Post Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,28,54,12
+Female,40-60 years,Married,Christian,Below SSLC,Thiruvananthapuram,Rural,BPL,Joint family,Unemployed,33,57,19
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,29,55,11
+Male,40-60 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,APL,Micro family,Unemployed,27,51,11
+Female,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,25,46,9
+Male,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,49,13
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Student,27,47,13
+Male,18-25 years,Unmarried,Christian,Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,27,47,13
+Male,26-40 years,Unmarried,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,26,48,10
+Female,26-40 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,50,11
+Male,40-60 years,Married,Christian,Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,25,47,12
+Male,26-40 years,Unmarried,Muslim,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,32,52,16
+Female,40-60 years,Married,Muslim,Below SSLC,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,25,53,14
+Male,40-60 years,Married,Muslim,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,33,64,17
+Female,More than 60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,APL,Joint family,Unemployed,30,58,13
+Female,18-25 years,Unmarried,Muslim,Under Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Student,22,56,13
+Male,26-40 years,Unmarried,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,29,62,15
+Male,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working under Government services,36,64,19
+Male,40-60 years,Married,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,28,43,9
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,31,65,15
+Female,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,30,65,17
+Male,40-60 years,Married,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,34,70,16
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,30,62,17
+Female,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,33,55,13
+Male,40-60 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,32,61,14
+Male,40-60 years,Married,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,31,61,13
+Female,26-40 years,Married,Muslim,Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Working under Government services,29,54,14
+Female,18-25 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,32,55,13
+Female,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,31,56,14
+Male,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,34,54,12
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,27,58,12
+Male,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Working in private sector,29,51,10
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,30,58,11
+Female,More than 60 years,Widower,Hindu,Below SSLC,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,27,58,10
+Female,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,28,52,10
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,52,9
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Joint family,Working in private sector,27,54,12
+Male,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Unemployed,30,59,9
+Female,40-60 years,Married,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,24,50,9
+Female,40-60 years,Married,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,28,54,10
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,27,55,9
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Student,22,58,15
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,29,63,18
+Female,40-60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,APL,Joint family,Working in private sector,29,54,11
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,26,55,9
+Male,40-60 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,24,55,9
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working under Government services,30,58,13
+Male,40-60 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,30,55,15
+Female,26-40 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,32,55,13
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working under Government services,37,66,16
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working in private sector,31,55,12
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Urban,APL,Joint family,Student,30,55,11
+Male,26-40 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Working in unorganized sector,24,55,13
+Male,26-40 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,29,55,13
+Male,26-40 years,Married,Muslim,Post Graduates,Thiruvananthapuram,Rural,BPL,Joint family,Working in private sector,22,58,9
+Female,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Urban,BPL,Joint family,Student,32,60,17
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,33,62,17
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,31,54,14
+Female,26-40 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,26,60,12
+Male,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,53,12
+Male,40-60 years,Married,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,26,55,13
+Male,More than 60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,29,51,12
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,30,53,17
+Female,40-60 years,Married,Christian,Under Graduates,Eranakulam,Urban,APL,Joint family,Unemployed,29,49,15
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Rural,BPL,Micro family,Unemployed,27,51,11
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Eranakulam,Urban,BPL,Micro family,Student,24,52,10
+Male,40-60 years,Married,Muslim,Post Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,28,49,12
+Female,40-60 years,Unmarried,Christian,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Unemployed,28,52,10
+Male,18-25 years,Unmarried,Christian,Graduates,Eranakulam,Urban,BPL,Joint family,Student,27,53,14
+Female,26-40 years,Married,Muslim,Post Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,23,53,13
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,27,52,10
+Female,26-40 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working in private sector,28,54,9
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working under Government services,27,60,11
+Male,26-40 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,25,53,14
+Male,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,28,52,9
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,26,57,11
+Female,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,31,62,12
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,30,46,13
+Male,40-60 years,Married,Muslim,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,27,59,10
+Male,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,33,53,15
+Female,26-40 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,27,60,12
+Female,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working in unorganized sector,27,60,14
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working in unorganized sector,29,58,12
+Female,More than 60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,26,57,13
+Female,More than 60 years,Widower,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,25,59,13
+Male,40-60 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,28,57,14
+Female,26-40 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,27,56,12
+Female,40-60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,26,59,11
+Male,26-40 years,Unmarried,Muslim,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Student,30,55,11
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,24,58,14
+Male,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working in private sector,27,55,15
+Male,40-60 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,28,61,18
+Male,40-60 years,Married,Muslim,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,31,59,13
+Male,26-40 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working under Government services,32,50,16
+Female,26-40 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,32,54,12
+Female,26-40 years,Married,Muslim,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,30,56,11
+Female,40-60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,25,50,9
+Female,18-25 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,27,47,13
+Female,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Joint family,Unemployed,28,49,13
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Student,26,55,13
+Female,26-40 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,53,10
+Male,26-40 years,Married,Muslim,Under Graduates,Eranakulam,Urban,BPL,Joint family,Working in private sector,27,51,10
+Female,26-40 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,27,47,13
+Male,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working under Government services,30,61,16
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,30,56,15
+Male,40-60 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,30,55,17
+Female,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Joint family,Unemployed,32,61,14
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,31,64,13
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,22,60,16
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,32,63,18
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,33,55,10
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working under Government services,28,64,13
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Joint family,Working in private sector,32,64,18
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Student,31,65,17
+Female,40-60 years,Unmarried,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,35,66,17
+Female,18-25 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,BPL,Joint family,Student,31,57,13
+Female,18-25 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,32,58,15
+Female,26-40 years,Married,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,32,58,13
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,30,57,14
+Female,26-40 years,Unmarried,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,29,53,13
+Female,More than 60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,31,54,14
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,32,58,12
+Female,26-40 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Rural,APL,Joint family,Unemployed,32,59,12
+Male,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,28,58,10
+Male,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,30,57,11
+Female,26-40 years,Married,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,29,50,10
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,28,55,10
+Female,40-60 years,Married,Christian,Under Graduates,Eranakulam,Urban,APL,Micro family,Unemployed,27,60,9
+Female,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Rural,BPL,Joint family,Unemployed,29,53,11
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,29,59,10
+Male,26-40 years,Married,Muslim,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,28,61,9
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,24,54,10
+Male,26-40 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,29,64,9
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working under Government services,27,54,15
+Male,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,22,63,16
+Female,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,29,54,13
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Joint family,Working in private sector,28,59,9
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,BPL,Micro family,Unemployed,25,47,9
+Female,18-25 years,Unmarried,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,27,55,12
+Female,26-40 years,Unmarried,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,29,57,14
+Male,18-25 years,Unmarried,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Student,32,56,15
+Female,26-40 years,Married,Muslim,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,33,61,16
+Female,26-40 years,Married,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,35,54,13
+Female,18-25 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,33,53,11
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,31,58,12
+Female,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,22,60,14
+Female,26-40 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,28,57,9
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Student,27,56,16
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,30,53,17
+Male,40-60 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,35,55,14
+Male,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working under Government services,28,64,13
+Female,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,26,50,12
+Female,40-60 years,Divorced,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,29,63,14
+Male,18-25 years,Unmarried,Muslim,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,27,58,13
+Female,26-40 years,Unmarried,Hindu,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,31,56,16
+Male,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Student,27,59,14
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,29,55,12
+Female,18-25 years,Unmarried,Christian,Graduates,Kozhikodu,Rural,APL,Micro family,Student,26,64,11
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,28,49,11
+Female,26-40 years,Married,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,24,65,11
+Female,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Student,29,58,13
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Student,26,54,14
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Unemployed,23,54,10
+Male,26-40 years,Unmarried,Muslim,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,28,51,9
+Female,40-60 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,29,57,11
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,27,60,13
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,25,56,10
+Female,18-25 years,Unmarried,Muslim,Under Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Student,26,55,11
+Female,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,BPL,Micro family,Unemployed,28,53,11
+Male,18-25 years,Unmarried,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,30,59,13
+Female,26-40 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,31,59,10
+Male,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,29,54,15
+Male,40-60 years,Married,Christian,Under Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working in private sector,31,60,12
+Female,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Student,27,58,13
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Student,27,58,13
+Male,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,29,53,12
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Student,26,58,14
+Female,40-60 years,Married,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,25,51,15
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Student,28,62,12
+Female,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,26,63,11
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,29,62,11
+Female,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Working in private sector,26,56,14
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,26,57,15
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,29,61,19
+Female,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Joint family,Working under Government services,27,59,12
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Student,31,59,16
+Female,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,BPL,Joint family,Student,31,58,12
+Male,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Joint family,Working under Government services,31,61,12
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,25,55,10
+Female,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,BPL,Micro family,Working under Government services,31,58,14
+Male,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,55,14
+Female,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,26,61,15
+Male,More than 60 years,Married,Hindu,Below SSLC,Eranakulam,Urban,BPL,Micro family,Unemployed,28,61,11
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Unemployed,26,52,12
+Female,18-25 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Student,24,51,14
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,32,55,17
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,26,65,16
+Female,26-40 years,Separated,Muslim,Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,29,63,18
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,28,58,13
+Female,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,27,58,13
+Female,18-25 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,28,69,16
+Male,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,35,58,19
+Male,40-60 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,29,53,8
+Male,26-40 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,BPL,Micro family,Working in unorganized sector,33,69,14
+Female,18-25 years,Unmarried,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,32,60,16
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,30,69,15
+Female,26-40 years,Divorced,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,29,57,15
+Male,40-60 years,Married,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working under Government services,30,48,12
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,28,57,14
+Female,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,29,61,13
+Female,40-60 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,27,53,14
+Male,40-60 years,Married,Christian,Under Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Unemployed,28,51,14
+Male,26-40 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,BPL,Micro family,Working in unorganized sector,25,57,14
+Female,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Working in unorganized sector,31,55,12
+Female,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,25,54,12
+Female,18-25 years,Unmarried,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Student,31,60,12
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,30,55,12
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,22,57,12
+Female,26-40 years,Unmarried,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,29,53,10
+Female,26-40 years,Married,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Unemployed,32,60,11
+Female,40-60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,26,54,11
+Male,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,30,58,11
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,27,61,11
+Male,26-40 years,Married,Muslim,Post Graduates,Eranakulam,Urban,BPL,Joint family,Student,31,60,11
+Female,26-40 years,Married,Muslim,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,54,10
+Female,40-60 years,Married,Muslim,Below SSLC,Eranakulam,Urban,BPL,Micro family,Working in private sector,30,55,16
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Unemployed,31,68,16
+Male,26-40 years,Married,Muslim,Under Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,30,50,11
+Male,40-60 years,Married,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,28,54,9
+Female,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,30,51,9
+Male,26-40 years,Married,Muslim,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Working in private sector,33,56,12
+Male,26-40 years,Married,Muslim,Post Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,34,57,13
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,31,63,13
+Female,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Joint family,Working under Government services,32,57,16
+Female,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Student,30,58,12
+Female,26-40 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,29,56,11
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,29,62,12
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,30,58,13
+Female,26-40 years,Unmarried,Hindu,Under Graduates,Eranakulam,Rural,APL,Joint family,Working in private sector,27,58,10
+Female,26-40 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,32,55,16
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Rural,APL,Joint family,Working under Government services,26,61,16
+Female,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,APL,Micro family,Student,32,49,13
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Eranakulam,Rural,BPL,Micro family,Student,26,57,12
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,20,58,12
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,28,61,14
+Male,40-60 years,Married,Christian,Below SSLC,Eranakulam,Rural,BPL,Micro family,Working in private sector,29,55,12
+Male,26-40 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,29,52,16
+Male,26-40 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,25,53,13
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,28,57,11
+Female,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,28,53,12
+Male,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Rural,BPL,Joint family,Working in private sector,33,55,11
+Female,26-40 years,Married,Muslim,Below SSLC,Kozhikodu,Rural,APL,Joint family,Unemployed,33,56,11
+Male,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,31,57,13
+Female,26-40 years,Widower,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,28,57,13
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Urban,APL,Micro family,Student,21,57,11
+Male,18-25 years,Unmarried,Christian,Below SSLC,Kozhikodu,Urban,APL,Micro family,Working in private sector,29,60,9
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,25,60,11
+Female,18-25 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,30,54,14
+Female,40-60 years,Unmarried,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Unemployed,33,58,10
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,APL,Joint family,Student,28,57,12
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,28,57,11
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Joint family,Working in private sector,29,52,12
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,27,53,10
+Male,18-25 years,Unmarried,Muslim,Post Graduates,Kozhikodu,Rural,BPL,Joint family,Student,31,52,14
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,28,55,12
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,62,14
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,28,60,12
+Male,26-40 years,Unmarried,Hindu,Post Graduates,Kozhikodu,Rural,BPL,Micro family,Student,26,59,11
+Male,26-40 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,26,60,13
+Male,26-40 years,Unmarried,Muslim,Below SSLC,Kozhikodu,Rural,BPL,Joint family,Working in unorganized sector,30,62,13
+Male,40-60 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,28,55,12
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,24,58,10
+Male,26-40 years,Married,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,31,59,10
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,27,61,13
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Rural,APL,Joint family,Working in private sector,27,62,14
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,BPL,Joint family,Student,27,65,19
+Female,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Rural,BPL,Joint family,Unemployed,26,60,12
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Rural,APL,Joint family,Student,30,56,16
+Female,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Unemployed,30,58,12
+Male,26-40 years,Married,Christian,Post Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,30,55,12
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,24,53,10
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,30,55,14
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,APL,Micro family,Unemployed,26,58,14
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Joint family,Working in private sector,25,63,15
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,27,58,11
+Male,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,25,54,12
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,24,60,13
+Female,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,BPL,Micro family,Student,32,61,17
+Male,18-25 years,Unmarried,Hindu,Below SSLC,Kozhikodu,Rural,APL,Micro family,Unemployed,26,60,16
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,29,63,18
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Unemployed,28,64,13
+Male,40-60 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Joint family,Working in private sector,27,58,13
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Student,28,66,16
+Female,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,30,64,18
+Male,40-60 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Micro family,Working under Government services,32,56,9
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Unemployed,31,62,13
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,34,66,17
+Male,26-40 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,33,65,15
+Male,18-25 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Student,28,58,15
+Male,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,29,53,12
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,28,59,14
+Male,18-25 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Joint family,Working in private sector,27,58,13
+Female,18-25 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,APL,Micro family,Unemployed,27,57,14
+Female,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Unemployed,26,58,13
+Female,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Student,26,62,15
+Female,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Student,25,60,12
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Working under Government services,28,56,12
+Female,40-60 years,Married,Christian,Under Graduates,Kozhikodu,Rural,BPL,Joint family,Working in private sector,26,60,10
+Male,18-25 years,Unmarried,Christian,Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,31,61,13
+Female,26-40 years,Married,Christian,Below SSLC,Eranakulam,Rural,APL,Joint family,Unemployed,28,65,12
+Male,18-25 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,22,60,11
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Student,27,64,9
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Joint family,Unemployed,31,54,13
+Male,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,28,53,9
+Male,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Joint family,Working in private sector,28,56,11
+Female,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,26,59,12
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Joint family,Working in unorganized sector,32,63,10
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,27,66,16
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,31,66,17
+Female,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,APL,Joint family,Unemployed,31,58,11
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in unorganized sector,29,56,9
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Unemployed,27,51,9
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Student,33,58,12
+Female,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,32,56,13
+Female,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,36,60,13
+Female,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Joint family,Working in private sector,31,60,16
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,30,48,12
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,31,52,11
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,29,50,12
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Joint family,Working under Government services,27,60,13
+Male,26-40 years,Unmarried,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,29,61,9
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,31,56,17
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,BPL,Joint family,Unemployed,30,60,16
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,28,59,13
+Male,40-60 years,Married,Christian,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,28,61,12
+Male,40-60 years,Married,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,26,59,12
+Male,40-60 years,Married,Christian,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,22,58,12
+Female,26-40 years,Married,Christian,Graduates,Kozhikodu,Urban,BPL,Micro family,Unemployed,29,57,14
+Male,40-60 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,31,63,16
+Male,40-60 years,Married,Christian,Graduates,Kozhikodu,Urban,APL,Joint family,Working under Government services,26,60,13
+Female,18-25 years,Unmarried,Muslim,Post Graduates,Kozhikodu,Urban,BPL,Micro family,Student,25,56,10
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,APL,Joint family,Working in private sector,27,58,11
+Female,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,BPL,Micro family,Unemployed,32,57,13
+Male,40-60 years,Married,Christian,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,29,58,10
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,34,62,14
+Male,18-25 years,Unmarried,Christian,Under Graduates,Kozhikodu,Urban,BPL,Joint family,Working in private sector,30,58,13
+Female,18-25 years,Married,Muslim,Post Graduates,Kozhikodu,Urban,BPL,Micro family,Student,28,58,10
+Female,26-40 years,Unmarried,Christian,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,22,58,10
+Male,More than 60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,APL,Micro family,Unemployed,30,66,11
+Female,18-25 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Joint family,Working in private sector,25,61,13
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Student,30,50,9
+Female,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,APL,Joint family,Student,31,58,12
+Female,26-40 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,APL,Micro family,Unemployed,30,61,12
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,27,60,12
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,61,9
+Male,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Rural,APL,Joint family,Working under Government services,29,53,13
+Female,26-40 years,Divorced,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,29,60,11
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,28,64,13
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in unorganized sector,30,62,13
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,APL,Joint family,Working in private sector,28,57,12
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,26,58,12
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Joint family,Working in private sector,26,60,14
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,62,11
+Male,18-25 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Joint family,Working in private sector,27,61,11
+Female,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,27,65,10
+Male,40-60 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Joint family,Working under Government services,27,59,13
+Female,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,29,66,14
+Male,40-60 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,29,69,18
+Male,40-60 years,Married,Muslim,Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,24,57,13
+Female,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,31,59,16
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Joint family,Working in private sector,28,62,11
+Male,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,31,68,12
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in unorganized sector,29,59,10
+Female,18-25 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Student,27,54,14
+Male,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Student,31,62,14
+Male,18-25 years,Unmarried,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Student,26,62,14
+Male,26-40 years,Married,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,26,61,12
+Male,26-40 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,29,48,11
+Male,40-60 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,25,60,14
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Joint family,Working in unorganized sector,29,64,17
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,27,68,16
+Female,26-40 years,Married,Christian,Post Graduates,Eranakulam,Rural,BPL,Micro family,Unemployed,29,64,18
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,27,66,13
+Female,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,29,64,13
+Male,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Rural,BPL,Micro family,Working in private sector,28,70,16
+Male,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Rural,BPL,Joint family,Unemployed,30,68,19
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,32,51,9
+Male,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Joint family,Working in private sector,31,68,13
+Male,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,34,70,17
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Eranakulam,Rural,BPL,Joint family,Working in private sector,33,70,15
+Female,More than 60 years,Married,Muslim,Below SSLC,Eranakulam,Rural,BPL,Joint family,Unemployed,28,68,16
+Female,18-25 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Student,29,52,12
+Female,26-40 years,Married,Christian,Under Graduates,Eranakulam,Rural,APL,Micro family,Student,29,56,14
+Male,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Joint family,Working in private sector,29,61,13
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,28,59,14
+Male,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,27,58,13
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,27,64,15
+Male,26-40 years,Married,Christian,Below SSLC,Eranakulam,Rural,APL,Joint family,Working in private sector,26,62,12
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,31,61,12
+Male,26-40 years,Married,Christian,Under Graduates,Eranakulam,Rural,BPL,Joint family,Working in private sector,26,61,10
+Male,26-40 years,Married,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,32,64,13
+Female,40-60 years,Widower,Christian,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,29,64,12
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,APL,Joint family,Student,24,52,11
+Female,18-25 years,Married,Hindu,Post Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,29,59,9
+Male,26-40 years,Married,Christian,Under Graduates,Eranakulam,Rural,APL,Joint family,Working in private sector,31,58,13
+Female,18-25 years,Married,Christian,Under Graduates,Eranakulam,Rural,BPL,Micro family,Unemployed,28,49,9
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,30,63,11
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,BPL,Micro family,Unemployed,28,57,12
+Female,26-40 years,Married,Christian,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,32,57,10
+Male,40-60 years,Married,Christian,Under Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,28,66,16
+Female,40-60 years,Married,Muslim,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,31,68,17
+Female,18-25 years,Unmarried,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Student,31,61,11
+Male,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,29,60,9
+Male,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,27,58,9
+Male,40-60 years,Widower,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,33,63,12
+Male,40-60 years,Married,Muslim,Below SSLC,Eranakulam,Rural,BPL,Micro family,Working in private sector,32,59,13
+Female,40-60 years,Married,Muslim,Below SSLC,Eranakulam,Rural,BPL,Micro family,Unemployed,36,59,13
+Male,40-60 years,Unmarried,Christian,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,31,68,16
+Female,40-60 years,Married,Christian,Below SSLC,Eranakulam,Rural,BPL,Micro family,Unemployed,30,57,12
+Female,26-40 years,Married,Christian,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,31,60,11
+Female,40-60 years,Married,Muslim,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,29,62,12
+Female,26-40 years,Married,Muslim,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,27,61,13
+Female,26-40 years,Married,Muslim,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,29,58,9
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,31,63,17
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,30,63,16
+Female,18-25 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,54,13
+Male,26-40 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Working in private sector,28,54,12
+Female,26-40 years,Married,Hindu,Graduates,Kozhikodu,Rural,APL,Micro family,Unemployed,26,52,12
+Female,26-40 years,Married,Christian,Post Graduates,Kozhikodu,Rural,APL,Micro family,Working in private sector,21,64,13
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,29,59,14
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in private sector,31,64,16
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Working in unorganized sector,26,59,13
+Male,26-40 years,Married,Muslim,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,25,61,10
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Eranakulam,Rural,APL,Micro family,Student,27,56,11
+Female,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Rural,BPL,Micro family,Unemployed,32,51,13
+Male,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,29,57,10
+Male,More than 60 years,Married,Hindu,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,34,54,14
+Male,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,30,58,13
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,28,53,10
+Female,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Rural,BPL,Micro family,Unemployed,22,52,10
+Female,26-40 years,Married,Muslim,Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,30,57,11
+Male,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,25,60,13
+Female,18-25 years,Married,Hindu,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,30,52,9
+Female,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,31,56,12
+Male,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Rural,APL,Micro family,Unemployed,30,56,12
+Female,18-25 years,Unmarried,Muslim,Graduates,Eranakulam,Rural,APL,Micro family,Student,27,53,12
+Male,18-25 years,Unmarried,Hindu,Under Graduates,Eranakulam,Rural,BPL,Micro family,Working in private sector,30,48,9
+Male,40-60 years,Married,Muslim,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,29,55,14
+Female,18-25 years,Unmarried,Muslim,Below SSLC,Eranakulam,Rural,BPL,Micro family,Student,29,57,11
+Female,26-40 years,Unmarried,Muslim,Post Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,28,62,13
+Female,26-40 years,Married,Muslim,Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,30,60,13
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,BPL,Micro family,Student,28,59,12
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,APL,Micro family,Student,26,59,12
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,BPL,Micro family,Student,26,61,14
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,30,52,11
+Female,18-25 years,Unmarried,Christian,Graduates,Eranakulam,Rural,APL,Micro family,Student,27,59,11
+Male,40-60 years,Unmarried,Christian,Under Graduates,Eranakulam,Rural,APL,Micro family,Unemployed,27,60,10
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Rural,APL,Micro family,Working in private sector,27,56,13
+Male,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Rural,APL,Micro family,Working under Government services,29,57,14
+Female,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,BPL,Joint family,Working in private sector,29,65,18
+Male,26-40 years,Unmarried,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,24,64,13
+Male,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,31,55,16
+Male,26-40 years,Married,Muslim,Post Graduates,Eranakulam,Urban,APL,Joint family,Working under Government services,28,59,11
+Male,26-40 years,Married,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,31,68,12
+Male,26-40 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,29,50,10
+Female,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Student,27,60,14
+Female,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,31,50,14
+Female,40-60 years,Separated,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,26,55,14
+Female,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,BPL,Joint family,Unemployed,26,61,12
+Female,18-25 years,Married,Muslim,Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,29,48,11
+Male,26-40 years,Married,Muslim,Under Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,25,58,14
+Female,18-25 years,Married,Muslim,Graduates,Eranakulam,Urban,BPL,Joint family,Unemployed,29,59,18
+Female,26-40 years,Unmarried,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,56,16
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,29,60,18
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,28,55,13
+Male,18-25 years,Unmarried,Muslim,Under Graduates,Eranakulam,Urban,BPL,Micro family,Student,30,53,13
+Male,40-60 years,Married,Muslim,Below SSLC,Eranakulam,Urban,BPL,Joint family,Working in private sector,28,55,15
+Male,26-40 years,Married,Muslim,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,31,58,19
+Female,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Urban,APL,Micro family,Unemployed,26,58,8
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,33,68,14
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,31,66,15
+Male,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Urban,APL,Micro family,Working under Government services,36,74,16
+Female,26-40 years,Married,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,32,59,13
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Unemployed,29,62,12
+Female,26-40 years,Unmarried,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,29,61,14
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,30,68,13
+Male,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,28,58,14
+Female,18-25 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,29,62,13
+Male,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Urban,APL,Micro family,Working in private sector,27,60,14
+Female,26-40 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,29,62,13
+Female,18-25 years,Unmarried,Christian,Graduates,Eranakulam,Urban,BPL,Micro family,Working under Government services,25,59,12
+Female,40-60 years,Unmarried,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,30,62,10
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,29,66,11
+Male,26-40 years,Unmarried,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,31,62,13
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,30,63,11
+Female,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,22,59,10
+Female,18-25 years,Unmarried,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,58,11
+Female,18-25 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,33,58,11
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,26,57,9
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,28,57,12
+Male,18-25 years,Unmarried,Hindu,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,28,57,11
+Male,18-25 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,32,70,16
+Male,40-60 years,Married,Hindu,Below SSLC,Eranakulam,Urban,APL,Micro family,Working under Government services,29,72,17
+Female,26-40 years,Married,Christian,Under Graduates,Eranakulam,Urban,BPL,Joint family,Working under Government services,31,59,12
+Male,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,30,60,9
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Unemployed,28,49,9
+Male,40-60 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,30,56,12
+Female,26-40 years,Unmarried,Hindu,Post Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,32,57,13
+Male,40-60 years,Separated,Christian,Below SSLC,Eranakulam,Urban,APL,Joint family,Working under Government services,34,62,13
+Male,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,BPL,Joint family,Working in private sector,36,62,16
+Female,26-40 years,Widower,Christian,Below SSLC,Eranakulam,Urban,APL,Joint family,Working in private sector,29,56,12
+Male,40-60 years,Married,Christian,Below SSLC,Eranakulam,Urban,APL,Joint family,Working in private sector,31,58,11
+Male,26-40 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,31,62,12
+Male,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,62,13
+Male,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Joint family,Working in private sector,26,61,9
+Female,26-40 years,Unmarried,Christian,Below SSLC,Eranakulam,Urban,APL,Micro family,Working in private sector,33,63,16
+Male,26-40 years,Married,Christian,Post Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,29,65,17
+Male,40-60 years,Married,Christian,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,32,63,13
+Female,18-25 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,24,63,12
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,64,12
+Female,26-40 years,Married,Hindu,Under Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,27,64,12
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,22,59,12
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,31,68,18
+Male,40-60 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,28,62,13
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,26,61,10
+Male,26-40 years,Married,Hindu,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,24,65,10
+Female,26-40 years,Married,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working in private sector,31,61,12
+Female,40-60 years,Married,Hindu,Under Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,28,63,12
+Male,40-60 years,Married,Christian,Below SSLC,Eranakulam,Urban,APL,Micro family,Unemployed,30,65,13
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,33,56,14
+Male,26-40 years,Unmarried,Christian,Under Graduates,Eranakulam,Urban,BPL,Micro family,Working in private sector,30,56,10
+Male,26-40 years,Unmarried,Christian,Graduates,Eranakulam,Urban,APL,Micro family,Working under Government services,29,55,9
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Joint family,Student,23,60,12
+Female,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,30,57,13
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,25,53,9
+Female,18-25 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,28,51,12
+Female,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,33,55,11
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Student,29,51,13
+Female,40-60 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Unemployed,28,52,9
+Female,18-25 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,32,50,13
+Female,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,27,49,12
+Male,26-40 years,Married,Hindu,Under Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Working in private sector,29,58,12
+Female,More than 60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,APL,Joint family,Working in unorganized sector,28,53,12
+Female,26-40 years,Married,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Joint family,Unemployed,30,48,13
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,28,53,13
+Female,26-40 years,Married,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,26,50,13
+Female,26-40 years,Unmarried,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,26,61,12
+Male,40-60 years,Married,Christian,Below SSLC,Thiruvananthapuram,Urban,BPL,Micro family,Working in unorganized sector,29,56,10
+Female,40-60 years,Married,Hindu,Below SSLC,Thiruvananthapuram,Urban,BPL,Micro family,Unemployed,30,56,11
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,23,55,13
+Male,26-40 years,Unmarried,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,29,55,14
+Female,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working under Government services,31,61,18
+Male,40-60 years,Married,Christian,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,26,51,12
+Male,40-60 years,Married,Christian,Below SSLC,Thiruvananthapuram,Urban,APL,Joint family,Working in private sector,28,56,17
+Female,26-40 years,Unmarried,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working under Government services,28,59,11
+Female,More than 60 years,Married,Christian,Below SSLC,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,28,57,11
+Male,26-40 years,Married,Hindu,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,29,51,10
+Female,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,31,53,14
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,27,58,14
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working under Government services,30,57,14
+Female,40-60 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,26,54,11
+Male,26-40 years,Married,Hindu,Graduates,Thiruvananthapuram,Urban,BPL,Joint family,Working in private sector,27,55,12
+Female,26-40 years,Unmarried,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,28,55,13
+Male,26-40 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Joint family,Working in private sector,30,56,18
+Female,40-60 years,Unmarried,Hindu,Under Graduates,Thiruvananthapuram,Urban,APL,Micro family,Unemployed,24,66,16
+Male,18-25 years,Unmarried,Christian,Under Graduates,Thiruvananthapuram,Urban,APL,Joint family,Student,30,56,18
+Female,40-60 years,Married,Christian,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,27,57,13
+Female,18-25 years,Unmarried,Hindu,Post Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Student,28,57,13
+Male,40-60 years,Married,Christian,Under Graduates,Thiruvananthapuram,Urban,BPL,Micro family,Working in private sector,29,58,16
+Female,18-25 years,Unmarried,Christian,Post Graduates,Thiruvananthapuram,Urban,APL,Micro family,Student,29,54,19
+Male,26-40 years,Married,Christian,Graduates,Thiruvananthapuram,Urban,APL,Micro family,Working in private sector,27,55,9
+Male,26-40 years,Unmarried,Christian,Graduates,Thiruvananthapuram,Urban,APL,Joint family,Student,29,55,13
+Female,26-40 years,Unmarried,Hindu,Graduates,Thiruvananthapuram,Rural,APL,Micro family,Working under Government services,30,58,16
+Female,40-60 years,Widower,Christian,Below SSLC,Thiruvananthapuram,Rural,BPL,Micro family,Working in private sector,34,56,16
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,APL,Micro family,Working under Government services,33,52,17
+Male,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,29,54,13
+Transgender,26-40 years,Unmarried,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in private sector,32,58,15
+Female,26-40 years,Divorced,Muslim,Under Graduates,Kozhikodu,Urban,BPL,Joint family,Working under Government services,28,61,14
+Male,26-40 years,Unmarried,Muslim,Post Graduates,Kozhikodu,Urban,APL,Joint family,Student,27,63,16
+Female,18-25 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Student,29,63,14
+Female,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,APL,Micro family,Unemployed,25,64,16
+Female,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,BPL,Micro family,Working in unorganized sector,25,67,13
+Male,40-60 years,Unmarried,Muslim,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in private sector,26,61,13
+Female,26-40 years,Divorced,Hindu,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,26,53,11
+Male,26-40 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,BPL,Joint family,Student,27,63,12
+Male,26-40 years,Separated,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,27,64,12
+Female,26-40 years,Separated,Muslim,Post Graduates,Kozhikodu,Urban,BPL,Joint family,Working under Government services,26,66,11
+Female,More than 60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,APL,Joint family,Unemployed,26,62,10
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Joint family,Working in private sector,30,57,12
+Female,26-40 years,Widower,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in private sector,29,59,9
+Male,26-40 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,65,10
+Male,18-25 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Student,28,57,10
+Female,18-25 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Student,26,60,9
+Female,18-25 years,Unmarried,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Student,26,60,15
+Male,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Student,28,56,16
+Male,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Student,27,59,11
+Female,18-25 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,BPL,Micro family,Student,27,53,9
+Female,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,APL,Micro family,Working under Government services,25,61,9
+Female,26-40 years,Unmarried,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,29,57,13
+Male,26-40 years,Unmarried,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,26,53,13
+Male,26-40 years,Unmarried,Muslim,Post Graduates,Kozhikodu,Urban,APL,Micro family,Working under Government services,31,52,13
+Male,26-40 years,Married,Muslim,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,30,52,9
+Male,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,BPL,Joint family,Working in private sector,27,54,12
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in private sector,30,59,9
+Female,40-60 years,Married,Hindu,Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,24,50,9
+Female,40-60 years,Married,Muslim,Under Graduates,Kozhikodu,Urban,APL,Micro family,Working in private sector,28,54,10
+Male,26-40 years,Married,Muslim,Post Graduates,Kozhikodu,Urban,BPL,Micro family,Working in private sector,27,55,9
+Male,40-60 years,Married,Hindu,Below SSLC,Kozhikodu,Urban,BPL,Joint family,Working in private sector,27,54,12
+Male,40-60 years,Married,Muslim,Below SSLC,Kozhikodu,Urban,BPL,Micro family,Working in private sector,30,59,9
+Female,40-60 years,Married,Hindu,Under Graduates,Kozhikodu,Urban,APL,Micro family,Unemployed,24,50,9
